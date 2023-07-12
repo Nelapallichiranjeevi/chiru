@@ -1,0 +1,222 @@
+#jana{
+    padding-left: 15pc;
+    background-image:url("https://st4.depositphotos.com/11289008/27364/i/450/depositphotos_273645686-stock-photo-tree-growth-natural-background.jpg");
+    margin-bottom: -56px;
+  }
+  .a{
+    margin-left: 202px;
+    font-size: 50px;
+    padding-top: 1px;
+    padding-right: 20px;
+  }
+  .a h1{
+    color: white;
+    margin-top: 16px;
+    padding-bottom: 36px;
+  }
+
+#jana p{
+    margin-left: -97px;
+    margin-right: 186px;
+    padding-left: 115px;
+    font-size: larger;
+    color: white;
+    padding-right:  20px;
+}
+
+
+#chiru{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+    color: white;
+    padding-left: 25px;
+}
+#chiru span{
+    font-size: 25px;
+}
+#s{
+    font-size: 33px;
+}
+#chiru p {
+    font-size: 20px;
+}
+
+
+
+#pooji{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+    padding-top: 5px;
+    margin-bottom: -25px;
+}
+#pooji h1{
+    font-size: 50px;
+    margin-left: 150px;
+    color: orangered;
+   
+}
+#b{
+    display: flex;
+}
+.images{
+    color: white;
+    font-size:20px;
+}
+.image img{
+    width: 369px;
+    margin-bottom: 32px;
+    margin-left: 110px;
+}
+
+
+
+
+#nandhu{
+    background-color: green;
+    padding-top: 0px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+}   
+#nandhu h1{
+    font-size: 50px;
+    margin-left: 200px;
+    color: orangered
+   
+}
+#c{
+    display: flex;
+    margin-left: 40px;
+}
+.pori img{
+    width: 430px;
+    margin-bottom: 32px;
+    margin-left: 50px;
+}
+.poori{
+    font-size: 30px;
+    color: white;
+    padding-left: 14pc;
+    margin-top: -45px;
+}
+
+
+#mummy {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+#mummy h1{
+    font-size: 50px;
+    margin-left: 200px;
+    color: orangered
+}
+#head{
+    display: flex;
+    margin-left: 40px;
+}
+#head p{
+    font-size: 25px;
+}
+b{
+    font-size: 25px;
+}
+.d{
+    
+}
+.e{
+    margin-right:  30px;
+    height: 30px;
+}
+.e img{
+    width: 198px;
+    margin-right: 151px;
+    margin-bottom:  20px;
+}
+.f {
+    font-size: 25px;
+}
+
+
+#list{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+}
+#list h1{
+    font-size: 25px;
+}
+li{
+    font-size: 20px;
+    
+}
+
+#subhu{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+}
+
+#subhu h1{
+    font-size: 50px;
+    margin-left:  229px;
+}
+#suchi{
+    display: flex;
+}
+#suchi img{
+    height: 300px;
+    width: 300px;
+    padding-right: 145px;
+    padding-left: 99px;
+}
+#suchi p{
+    font-size: 20px;
+}
+
+#varadha {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+}
+#varadha h1{
+    font-size: 50px;
+    margin-left:  229px;
+}
+#vijaya{
+    display: flex;
+}
+#vijaya img{
+    height: 300px;
+    width: 300px;
+    padding-right: 145px;
+    padding-left: 99px;
+}
+#vijaya p{
+    font-size: 20px;
+}
+
+#pranu{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+}
+#pranu p{
+    font-size: 20px;
+}
+
+#team{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJwZ9jHy5C-TL_m1RuNpYFjp-Zlr5Jx0hkA&usqp=CAU");
+    background-size: cover;
+  background-position: center;
+    padding-left:  30pc;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#team span{
+  color: brown;
+}
